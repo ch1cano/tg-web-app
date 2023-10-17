@@ -14,6 +14,7 @@ const onClose = () => {
 function App() {
   return (
     <div className="App">
+      <h1>Telegram web app</h1>
       <button onClick={onClose}>Закрыть</button>
     </div>
   );
